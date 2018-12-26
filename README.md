@@ -1,2 +1,2 @@
 # ttmadmin
-Basic blog build using MVC
+CMS for blog posts built using Jquery, PHP(MVC)
