@@ -1,3 +1,5 @@
+<?php header( 'Location: /index.html' ) ;  ?>
+
 <?php
 /*
 miniProxy - A simple PHP web proxy. <https://github.com/joshdick/miniProxy>
